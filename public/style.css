@@ -1,16 +1,16 @@
 @font-face {
     font-family: "Segoe UI";
-    src: url('/fonts/Segoe UI.ttf');
+    src: url('fonts/Segoe UI.ttf');
     font-weight: 400;
 }
 @font-face {
     font-family: "Open Sans";
-    src: url('/fonts/OpenSans-Regular.ttf');
+    src: url('fonts/OpenSans-Regular.ttf');
     font-weight: 400;
 }
 @font-face {
     font-family: "Open Sans";
-    src: url('/fonts/OpenSans-SemiBold.ttf');
+    src: url('fonts/OpenSans-SemiBold.ttf');
     font-weight: 600;
 }
 
